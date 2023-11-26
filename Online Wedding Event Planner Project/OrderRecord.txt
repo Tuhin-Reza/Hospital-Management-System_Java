@@ -1,0 +1,5 @@
+    Venue Preference: Community Centre; amount: 100000.0
+   Menu Preference: starter :tikki kabab & Nan; Main course : Kachhi, Beef Curry, Veg, ChickenRoast; Dessert : Firni; Drinks : Borhani & Cold Drinks; cost per head : 890.0
+   Decoration Preference: Theme_Base Style Wedding;  DecorCost : 75000.0
+   Total guest45Total cost of arrangement : 215050.0
+
