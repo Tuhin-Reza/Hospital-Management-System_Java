@@ -1,0 +1,12 @@
+Serial NO.        patient's name              Date of Birth       gender      Type    Disease/Disorder/Condition                Doctor
+   1        Mohammad Badruzzaman Sakib          29.09.1988           M       admitted         Dengue                       Prof.Dr. Abid Alam
+   2        Kamruzzaman Shafi                   02.10.1995           M       outdoor          Virus Fever                  Dr.Sanid Ahmed
+   3        Morsheda Peary                      01.01.1967           F       admitted         Dengue                       Prof.Dr. Abid Alam
+   4        Disha Sharmin                       18.11.1990           F       admitted         Pregnancy                    Assistant Prof. Rahela Khan
+   5        Ramisa Ferdousi                     19.11.1999           F       outdoor          Skin Disease                 Prof. Dr. Mahfuza Khanom
+   6        Sara Rahman                         06.01.2000           F       outdoor          Virus Fever                  Dr.Sanid Ahmed
+   7        Saifuzzaman Zaki                    29.11.1992           M       admitted         Dengue                       Prof.Dr. Abid Alam
+   8        Nowshin Tasnim Orpita               23.02.2000           F       outdoor          Urine Infection              Assistant Prof.Sharaf Sabir
+   9        Faria Tabassum Adrita               02.04.1998           F       outdoor          Hyperparathyroidism          Dr.Rashed Bhuiyan
+   10       Golam Mostafa                       12.07.1972           M       outdoor          High blood pressure          Prof.Dr.Solimul haque
+    

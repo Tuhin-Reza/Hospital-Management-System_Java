@@ -1,0 +1,7 @@
+Brand Name     Dosage Form      Strength              Company                                  Pack Size & Price
+Daporex          Tablet           60mg            Euro Pharma Ltd.                            Unit Price:50.00 BDT
+Dapotin          Tablet           30mg            Euro Pharma Ltd.                            Unit Price:30.00 BDT
+Daxetin          Tablet           30mg            ACI Limited                                 Unit Price:30.00 BDT
+Daxetin          Tablet           60mg            ACI Limited                                 Unit Price:60.00 BDT
+Susten           Tablet           60mg            Square Pharmaceuticals Ltd.                 Unit Price:50.00 BDT
+       

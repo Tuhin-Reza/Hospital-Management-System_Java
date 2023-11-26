@@ -1,0 +1,8 @@
+Serial no.             ID no.                               Doctor's Name	  	         Room Number	 Salary     	
+ 1.                    101		              Prof.Dr. Abid Alam	          	    202		 55,000
+ 2.                    102		              Dr.Sanid Ahmed		        	    204		 50,000
+ 3.                    103                            Rahela Khan	                            301		 45,000
+ 4.		       104                            Dr. Mahfuz Khanom	                      	    403		 60,000
+ 5		       105                            Assistant Prof.Sharaf Sabir                   405		 46,000
+ 6		       106                            Dr.Rashed Bhuiyan		                    506		 50,000
+ 7                     107                            Prof. Dr.Solimul Haque	              	    606          58,000

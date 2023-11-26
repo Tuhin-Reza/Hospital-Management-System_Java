@@ -1,0 +1,12 @@
+SL              Service Category                   Service Name                          price
+1                 AMBULANCE                     Ambulance Service7                       900BDT
+2                 AMBULANCE                     Ambulance Service6                       800BDT
+3                 AMBULANCE                     Ambulance Service5                       600BDT
+4                 COLONOSCOPY                   CLO Test (DFARUQUE)                      600BDT
+5                 BLOOD BANK                    Blood Screening+Drawing+Grouping         2100BDT
+6                 BLOOD BANK                    Blood Grouping                           120BDT
+7                 BLOOD BANK                    Blood Drawing                            600BDT
+8                 ECG                           ECG                                      350BDT
+9                 ECHO                          24 Hrs Ambulatory BP                     300BDT
+10                ENDOSCOPY                     Bronchoscopy Medicine                    500BDT
+12                ENDOSCOPY                     Bronchoscopy                             6000BDT
