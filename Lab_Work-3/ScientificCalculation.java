@@ -1,0 +1,4 @@
+interface ScientificCalculation
+{
+	double toThePow( );
+}
